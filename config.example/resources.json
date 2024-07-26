@@ -1,0 +1,5 @@
+{
+    "S3_BUCKETS": ["pca-files-rwsa","pct-files-xg7q","terraform-state-812944921419-us-east-1-prodtest"],
+    "BITBUCKET_REPO_URL": "SSH bitbucket repo url",
+    "RDS_CLUSTER_IDENTIFIERS": ["DB clusters"]
+}

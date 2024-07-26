@@ -1,0 +1,5 @@
+.env
+config/*
+backup/*
+*.zip
+.DS_Store

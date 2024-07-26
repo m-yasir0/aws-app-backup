@@ -1,0 +1,7 @@
+{
+    "AWS_PROFILE": "Your setup aws profile",
+    "AWS_KMS_KEY": "Customer KMS key for encrypting RDS snapshot to S3",
+    "AWS_REGION": "AWS region",
+    "AWS_ACCOUNT_ID": "AWS account ID",
+    "AWS_EXPORT_ROLE_ARN": "Role ARN to use for Snapshot export"
+}
