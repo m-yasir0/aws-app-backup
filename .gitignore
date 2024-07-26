@@ -3,3 +3,4 @@ config/*
 backup/*
 *.zip
 .DS_Store
+interrupted.

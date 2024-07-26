@@ -37,7 +37,7 @@ cleanup() {
     stop_animation
     echo -e "\n\nScript interrupted. Press enter..."
     rm -rf $BACKUP_DIR
-    exit 1
+    # exit 1
 }
 
 trap cleanup SIGINT SIGTERM

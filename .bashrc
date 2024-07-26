@@ -62,7 +62,7 @@ else
         stop_animation
     else
         echo "\n\nAWS authentication failed."
-        # rm -rf $BACKUP_DIR
+        rm -rf $BACKUP_DIR
         stop_animation
         exit 1
     fi
